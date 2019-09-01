@@ -1,0 +1,57 @@
+body {
+  background: white;
+}
+.main-contenet {
+  max-width: 800px;
+  margin: auto;
+  background: #555;
+  padding: 10px;
+}
+.fullname h1 {
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.fullname p{
+  margin-right: 50px;
+  margin-left: 150px;
+  text-align: center;
+}
+
+.contactOne {
+  float: right;
+  width: 15%;
+  font-size: 14px;
+}
+
+.contactTwo {
+  float: left;
+  width: 16%;
+  font-size: 14px;
+}
+
+.fullname img {
+  position: relative;
+  margin-left: 590px;
+  width: 200px;
+  height: 200px;
+}
+
+div ul li{
+  position: relative;
+
+  left: 60px;
+  
+}
+
+.education{
+  position: relative;
+
+  left: 80px;
+}
+
+.education h3{
+  position: relative;
+  right: 80px;
+}
